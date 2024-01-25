@@ -6,6 +6,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OCSYT&show_icons=true&theme=nightowl)
 
+# My Projects
 Suggested repos:
 https://github.com/OCSYT/SlimeTora/
 
