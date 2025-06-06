@@ -1,18 +1,13 @@
 ### Welcome to my profile 👋
 
 # I'm { Bracket }
-### A software developer from the UK that works on Unity, Node JS, and web development projects!
+### A Software Developer from the UK that works on C#, Node JS, and Web Development Projects!
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=OCSYT&include_orgs=true&exclude_repo=BracketBrowser,BracketEngine-OpenGL&show_icons=true&theme=nightowl&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OCSYT&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OCSYT&size_weight=0&count_weight=1&hide=css,hlsl,c,objective-c,glsl,cmake,batchfile&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Projects
 Suggested Repos:
-
-https://github.com/OCSYT/SlimeTora/
-
-Suggested Organisations:
-
-https://github.com/Protoshock/
+- https://github.com/OCSYT/SlimeTora/ - SlimeVR HaritoraX Compatability Software
+- https://github.com/OCSYT/BracketEngine2 - C# Game Engine using Bullet Physics and Monogame
+- https://github.com/OCSYT/SoftwareRenderer - C# Software Renderer
 
