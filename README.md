@@ -64,7 +64,7 @@ I'm a **UK-based Software Developer** specializing in **C#**, **Node.js**, and p
 
 ## 🚀 Projects I'm Proud Of
 
-- [Slimetora](https://github.com/OCSYT/SlimeTora/) - SlimeVR HaritoraX Compatibility Software for Full Body Tracking in VR  
+- [SlimeTora](https://github.com/OCSYT/SlimeTora/) - SlimeVR HaritoraX Compatibility Software for Full Body Tracking in VR  
 - [BracketEngine2](https://github.com/OCSYT/BracketEngine2) - C# Game Engine with Bullet Physics and Monogame  
 - [Software Renderer](https://github.com/OCSYT/SoftwareRenderer) - C# Multithreaded Software Renderer
 - [BracketCDN](https://cdn.bracketproto.com/) - A Flask based CDN for uploading files, audio, photos and videos for temporary or permenant storage 
