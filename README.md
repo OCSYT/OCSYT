@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Bracket** `{}`
 
-I'm a **UK-based Software Developer** specializing in **C#**, **Node.js**, and passionate about **Game Development**, **Graphics Programming**, and **Web Development**.
+I'm a **UK-based Software Developer** specializing in **C#**, **Javascript**, **Python**, and passionate about **Game Development**, **Graphics Programming**, and **Web Development**.
 
 ---
 
